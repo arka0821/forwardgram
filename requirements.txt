@@ -1,0 +1,5 @@
+telethon
+pyyaml
+pil
+pytesseract
+BeautifulSoup
